@@ -1,0 +1,13 @@
+/* Reset das configurações do navegador */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Nosifer', serif;
+    text-rendering: optimizeLegibility;
+}
+
+/* Definições da navbar */
+.bg-minha_cor {
+    background: rgb(23, 137, 186);
+}
