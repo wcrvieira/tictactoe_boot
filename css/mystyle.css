@@ -7,7 +7,13 @@
     text-rendering: optimizeLegibility;
 }
 
-/* Definições da navbar */
-.bg-minha_cor {
-    background: rgb(23, 137, 186);
+/* Definição do barra de navegação */
+.bg-cor-que-eu-quero {
+    background: rgb(106, 241, 124);
+}
+
+#navbar-items .navbar-nav {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;   
 }
