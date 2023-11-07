@@ -1,4 +1,1 @@
-// Disparando o monitor de eventos
-document.addEventListener('DOMContentLoaded', function() {
-
-})
+const celulas = document.querySelectorAll('[data-celula]');
